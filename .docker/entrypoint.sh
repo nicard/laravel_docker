@@ -1,0 +1,1 @@
+#!/bin/bash\rcho "Hello world"\rvar/www php artisan migrate\rhp-fpm
